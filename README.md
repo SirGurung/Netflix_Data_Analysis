@@ -70,19 +70,24 @@ What trends can be observed from 2010 onwards?
 ## Key Insights & Business Implications
 
 **Insight:** TV-MA and TV-14 are the most common ratings on Netflix. 
-**Actionable Insight:** There is a strong global demand for mature-themed content. Invest in original productions or acquire rights to content within these rating categories.
+
+**Actionable Lead:** There is a strong global demand for mature-themed content. Invest in original productions or acquire rights to content within these rating categories.
 
 **Insight:** PG-13 & R rated content is not featured in the TV-show category.
-**Actionable Insight:** There is a potential content gap, explore mid-range mature TV show formats that would align with PG-13 or R rated classification. 
+
+**Actionable Lead:** There is a potential content gap, explore mid-range mature TV show formats that would align with PG-13 or R rated classification. 
 
 **Insight:** In South-East Asia, Thailand has a large proportion of their titles being rated TV-MA compared to other SEA countries. Also Malaysia has no R rated content. 
-**Actionable Insight:** Develop region-specific content strategies, for Thailand promote bolder titles and invest in local adult themed productions. Whilst for Malaysia, prioritisation of family-friendly or censored versions of popular global titles. 
+
+**Actionable Lead:** Develop region-specific content strategies, for Thailand promote bolder titles and invest in local adult themed productions. Whilst for Malaysia, prioritisation of family-friendly or censored versions of popular global titles. 
 
 **Insight:** The Top 10 countries for producing titles on Netflix includes the United States, India and United Kingdom. 
-**Actionable Insight:** These markets are mature but may be approaching content saturation. An opportunity could be to localise and translate content from these top 3 markets into regional languages such as Japanese-subbed US films to broaden reach. 
+
+**Actionable Lead:** These markets are mature but may be approaching content saturation. An opportunity could be to localise and translate content from these top 3 markets into regional languages such as Japanese-subbed US films to broaden reach. 
 
 **Insight:** The number of titles increased sharply after 2013, peaking around 2018, which was followed by a decline in the titles in various categories across Netflix. 
-**Actionable Insight:** The decline in titles after 2018 could suggest saturation or a strategic shift towards quality of titles rather than mass acquisition of titles. 
+
+**Actionable Lead:** The decline in titles after 2018 could suggest saturation or a strategic shift towards quality of titles rather than mass acquisition of titles. 
 
 
 
